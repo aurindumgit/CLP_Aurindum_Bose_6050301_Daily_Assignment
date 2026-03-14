@@ -12,7 +12,7 @@ public class EmployeeDAO {
         con = DriverManager.getConnection(
                 "jdbc:postgresql://localhost:5432/employee",
                 "postgres",
-                "shubham"
+                "1234"
         );
     }
 
